@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataPersistenceConfigChanges</string>
+    <string name="add_new_guest_text">Add New Guest</string>
+    <string name="guest_name_text">Guest Name</string>
+</resources>
